@@ -1,50 +1,58 @@
-id: opecha:P007056
+id: P007056
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC16
   title: ཀློང་ཆེན་མཛོད་བདུན།
-  volume:
+  author: ''
+  volumes:
     aed1764422264cfda1d9de3794fc1313:
       image_group_id: I2PD18488
       title: Volume 1 of klong chen mdzod bdun/
       volume_number: 1
       total_pages: 2
+      base_file: v001.txt
     2f474d9c8d7d4f709ff0adc2c716aef6:
       image_group_id: I2PD18489
       title: Volume 2 of klong chen mdzod bdun/
       volume_number: 2
       total_pages: 410
+      base_file: v002.txt
     a1960635e0324593a00a2374bc8e1baf:
       image_group_id: I2PD18490
       title: Volume 3 of klong chen mdzod bdun/
       volume_number: 3
       total_pages: 470
+      base_file: v003.txt
     74e8c6778a524fa0bd31caf93f8b096c:
       image_group_id: I2PD18491
       title: Volume 4 of klong chen mdzod bdun/
       volume_number: 4
       total_pages: 390
+      base_file: v004.txt
     75ead4607b204b98b75c916161a25366:
       image_group_id: I2PD18492
       title: Volume 5 of klong chen mdzod bdun/
       volume_number: 5
       total_pages: 666
+      base_file: v005.txt
     7c03fd2d36094f5faef25122da1abbec:
       image_group_id: I2PD18493
       title: Volume 6 of klong chen mdzod bdun/
       volume_number: 6
       total_pages: 576
+      base_file: v006.txt
     20b0669fddd84a9ca94792543618b76d:
       image_group_id: I2PD18494
       title: Volume 7 of klong chen mdzod bdun/
       volume_number: 7
       total_pages: 458
+      base_file: v007.txt
     f613285eb2ff487f86ec5963036c4e72:
       image_group_id: I2PD18495
       title: Volume 8 of klong chen mdzod bdun/
       volume_number: 8
       total_pages: 362
-  author: ''
+      base_file: v008.txt
 ebook_metadata:
   title: ཀློང་ཆེན་མཛོད་བདུན།
   author: ''
