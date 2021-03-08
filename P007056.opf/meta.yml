@@ -5,54 +5,46 @@ source_metadata:
   title: ཀློང་ཆེན་མཛོད་བདུན།
   author: ''
   volumes:
-    aed1764422264cfda1d9de3794fc1313:
+    87ca81d2fc1d454d808703ecfb856509:
       image_group_id: I2PD18488
-      title: Volume 1 of klong chen mdzod bdun/
+      title: ''
       volume_number: 1
-      total_pages: 2
-      base_file: v001.txt
-    2f474d9c8d7d4f709ff0adc2c716aef6:
+      total_pages: 554
+    4d6ba5d3bb60422a89eac77d3ad5ca74:
       image_group_id: I2PD18489
-      title: Volume 2 of klong chen mdzod bdun/
+      title: ''
       volume_number: 2
       total_pages: 410
-      base_file: v002.txt
-    a1960635e0324593a00a2374bc8e1baf:
+    fdd0ace2e7444ff7a3c227f88271febc:
       image_group_id: I2PD18490
-      title: Volume 3 of klong chen mdzod bdun/
+      title: ''
       volume_number: 3
       total_pages: 470
-      base_file: v003.txt
-    74e8c6778a524fa0bd31caf93f8b096c:
+    02aecac314d5403c9e7a458ca6adf0d9:
       image_group_id: I2PD18491
-      title: Volume 4 of klong chen mdzod bdun/
+      title: ''
       volume_number: 4
       total_pages: 390
-      base_file: v004.txt
-    75ead4607b204b98b75c916161a25366:
+    98e5323d81154a0394d5341d0f92c327:
       image_group_id: I2PD18492
-      title: Volume 5 of klong chen mdzod bdun/
+      title: ''
       volume_number: 5
       total_pages: 666
-      base_file: v005.txt
-    7c03fd2d36094f5faef25122da1abbec:
+    5e8629988fca4eff8f678605388555b5:
       image_group_id: I2PD18493
-      title: Volume 6 of klong chen mdzod bdun/
+      title: ''
       volume_number: 6
       total_pages: 576
-      base_file: v006.txt
-    20b0669fddd84a9ca94792543618b76d:
+    b2b1919bd1e940d5b5cb97b39256ee24:
       image_group_id: I2PD18494
-      title: Volume 7 of klong chen mdzod bdun/
+      title: ''
       volume_number: 7
       total_pages: 458
-      base_file: v007.txt
-    f613285eb2ff487f86ec5963036c4e72:
+    2b79dfdc2caa461cad4f8291daf40e0b:
       image_group_id: I2PD18495
-      title: Volume 8 of klong chen mdzod bdun/
+      title: ''
       volume_number: 8
       total_pages: 362
-      base_file: v008.txt
 ebook_metadata:
   title: ཀློང་ཆེན་མཛོད་བདུན།
   author: ''
