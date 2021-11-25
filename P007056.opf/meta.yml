@@ -1,5 +1,7 @@
 id: P007056
 initial_creation_type: ocr
+created_at: 30/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1AC16
   title: ཀློང་ཆེན་མཛོད་བདུན།
@@ -53,10 +55,3 @@ source_metadata:
       volume_number: 8
       total_pages: 362
       base_file: v008.txt
-ebook_metadata:
-  title: ཀློང་ཆེན་མཛོད་བདུན།
-  author: ''
-  sku: P007056
-  cover: cover.jpg
-  layers:
-  - pagination
