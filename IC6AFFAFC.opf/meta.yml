@@ -1,59 +1,69 @@
-id: P007056
+id: IC6AFFAFC
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 30/03/2020
-last_modified_at: 2021-12-17 12:38:50.670932
+imported: '2020-03-30T13:28:46+00:00'
+last_modified: '2022-06-08T16:23:43.631497+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W1AC16
   title: ཀློང་ཆེན་མཛོད་བདུན།
   author: ''
-  volumes:
-    aed1764422264cfda1d9de3794fc1313:
-      image_group_id: I2PD18488
-      title: Volume 1 of klong chen mdzod bdun/
-      volume_number: 1
-      total_pages: 2
-      base_file: v001.txt
-    2f474d9c8d7d4f709ff0adc2c716aef6:
-      image_group_id: I2PD18489
-      title: Volume 2 of klong chen mdzod bdun/
-      volume_number: 2
-      total_pages: 410
-      base_file: v002.txt
-    a1960635e0324593a00a2374bc8e1baf:
-      image_group_id: I2PD18490
-      title: Volume 3 of klong chen mdzod bdun/
-      volume_number: 3
-      total_pages: 470
-      base_file: v003.txt
-    74e8c6778a524fa0bd31caf93f8b096c:
-      image_group_id: I2PD18491
-      title: Volume 4 of klong chen mdzod bdun/
-      volume_number: 4
-      total_pages: 390
-      base_file: v004.txt
-    75ead4607b204b98b75c916161a25366:
-      image_group_id: I2PD18492
-      title: Volume 5 of klong chen mdzod bdun/
-      volume_number: 5
-      total_pages: 666
-      base_file: v005.txt
-    7c03fd2d36094f5faef25122da1abbec:
-      image_group_id: I2PD18493
-      title: Volume 6 of klong chen mdzod bdun/
-      volume_number: 6
-      total_pages: 576
-      base_file: v006.txt
-    20b0669fddd84a9ca94792543618b76d:
-      image_group_id: I2PD18494
-      title: Volume 7 of klong chen mdzod bdun/
-      volume_number: 7
-      total_pages: 458
-      base_file: v007.txt
-    f613285eb2ff487f86ec5963036c4e72:
-      image_group_id: I2PD18495
-      title: Volume 8 of klong chen mdzod bdun/
-      volume_number: 8
-      total_pages: 362
-      base_file: v008.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    727E:
+      image_group_id: I2PD18488
+      title: Volume 1 of klong chen mdzod bdun/
+      total_pages: 2
+      order: 1
+      base_file: 727E.txt
+    393C:
+      image_group_id: I2PD18489
+      title: Volume 2 of klong chen mdzod bdun/
+      total_pages: 410
+      order: 2
+      base_file: 393C.txt
+    FB3B:
+      image_group_id: I2PD18490
+      title: Volume 3 of klong chen mdzod bdun/
+      total_pages: 470
+      order: 3
+      base_file: FB3B.txt
+    521B:
+      image_group_id: I2PD18491
+      title: Volume 4 of klong chen mdzod bdun/
+      total_pages: 390
+      order: 4
+      base_file: 521B.txt
+    95C6:
+      image_group_id: I2PD18492
+      title: Volume 5 of klong chen mdzod bdun/
+      total_pages: 666
+      order: 5
+      base_file: 95C6.txt
+    98FF:
+      image_group_id: I2PD18493
+      title: Volume 6 of klong chen mdzod bdun/
+      total_pages: 576
+      order: 6
+      base_file: 98FF.txt
+    '1196':
+      image_group_id: I2PD18494
+      title: Volume 7 of klong chen mdzod bdun/
+      total_pages: 458
+      order: 7
+      base_file: 1196.txt
+    9FCE:
+      image_group_id: I2PD18495
+      title: Volume 8 of klong chen mdzod bdun/
+      total_pages: 362
+      order: 8
+      base_file: 9FCE.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
