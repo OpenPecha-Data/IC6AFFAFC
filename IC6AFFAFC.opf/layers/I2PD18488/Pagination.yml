@@ -1,0 +1,10 @@
+id: c7a313e598d644c18eba3d2679f893cf
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e10a6d4aeda849bc8b1fb893495be04f:
+    span:
+      start: 0
+      end: 610
+    imgnum: 1
+    reference: I2PD184880001.tif
